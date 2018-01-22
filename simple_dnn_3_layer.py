@@ -9,7 +9,11 @@ except Exception as e:
 
 
 def main():
-    pass
+    #define neural net
+    #start from input layer 1,input layer ,2 hidde layer ,3 output layer
+    layer_num = 3
+
+    hidden_layer_unit_num = 10
 
 
 
