@@ -1,2 +1,1 @@
-# git_test
-for git exercises
+A simple neural network containing 3 layers with pandas and numpy
